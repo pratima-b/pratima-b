@@ -9,9 +9,7 @@
 <h4 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h4>
 
 ###
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="description image" width="600" />
-</div>
+
 
 # Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
 
