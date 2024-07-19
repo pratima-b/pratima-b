@@ -18,7 +18,7 @@
 
 ###
 
-# GitHub Stats <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
+# Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-# Technical Skills <img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = 40px>
+# GitHub Stats <img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = 40px>
 
 ###
 
