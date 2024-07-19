@@ -120,16 +120,16 @@
   <a href="mailto:pratimabombe@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://dribbble.com/pratima_b" target="_blank">
+  <a href="https://dribbble.com/pratima_b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
   </a>
-  <a href="https://www.behance.net/pratimabombe" target="_blank">
+  <a href="https://www.behance.net/pratimabombe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
-  <a href="https://www.instagram.com/___pratima/?next=%2" target="_blank">
+  <a href="https://www.instagram.com/___pratima/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/pratimabombe" target="_blank">
+  <a href="https://www.hackerrank.com/profile/pratimabombe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
