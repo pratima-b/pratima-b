@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">🛠 Technical Skills</h2>
+<h1 align="center">🛠 Technical Skills</h1>
 
 ###
 
@@ -99,10 +99,8 @@
 ###
 
 <div align="center">
-  <h1>🔥 My Stats : <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="10px"></h1>
+  <h1>🔥 My Stats : <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="40px"></h1>
 </div>
-
-<h2 align="center"> My Stats :</h2>
 
 
 
