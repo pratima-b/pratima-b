@@ -9,9 +9,6 @@
 <h4 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h4>
 
 ###
-<div align = "center">
-<img src = "https://octodex.github.com/images/NUX_Octodex.gif" width = 100px>
-</div>
 
 ###
 
@@ -97,9 +94,8 @@
 
 ###
 
-<div style="text-align: center;">
-  <h3 style="display: inline; margin-right: 10px;">My Stats</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" style="vertical-align: middle;">
+<div align = "center">
+<h3> GitHub Stats <img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = 25px></h3>
 </div>
 
 
