@@ -1,9 +1,5 @@
-<div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
-</div>
+<h3>Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>I am Pratima</h3>
 
-
-<h1 align="center">Hey there! I'm Pratima👋</h1>
 
 ###
 
