@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h3>
 
