@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
 </div>
 
 ###
