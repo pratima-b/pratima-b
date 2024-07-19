@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Pratima <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50px"> </h1>
+  <h1>Hey there! I'm Pratima Bombe <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50px"> </h1>
 </div>
 
 
@@ -124,7 +124,7 @@
 
 ###
 
-<h3 align="center">Socials 💻🫱🏼‍🫲🏻</h3>
+<h3 align="center">Socials 💻<img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 40px></h3>
 
 ###
 
