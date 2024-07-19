@@ -1,7 +1,11 @@
+<div align="center">
+  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e"  />
+</div>
+
+
 <h1 align="center">Hey there! I'm Pratima👋</h1>
 
 ###
-
 
 
 <h3 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h3>
@@ -9,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="f"  />
+  <img height="200" src=""  />
 </div>
 
 ###
