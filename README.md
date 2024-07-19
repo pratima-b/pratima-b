@@ -10,10 +10,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif"  />
-</div>
-
+<img src = "https://octodex.github.com/images/NUX_Octodex.gif">
 ###
 
 <div align="center">
