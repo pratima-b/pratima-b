@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm Pratima</h1>
+  <h1>Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Pratima</h1>
 </div>
 
 
 ###
 
 
-<h3 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h3>
+<h4 align="center">I'm a passionate Android developer 📱 with a keen eye for UI/UX design 🎨. With a strong foundation in software development 💻 and a love for crafting seamless user experiences ✨, I strive to create applications that are not only functional but also delightful to use 🚀</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">🛠 Technical Skills</h1>
+<h3 align="center">🛠 Technical Skills</h3>
 
 ###
 
@@ -99,7 +99,7 @@
 ###
 
 <div align="center">
-  <h1>🔥 My Stats : </h1>
+  <h3>🔥 My Stats : </h3>
 </div>
 
 
@@ -124,7 +124,7 @@
 
 ###
 
-<h2 align="center">Let's Connect 💻🫱🏼‍🫲🏻</h2>
+<h3 align="center">Socials 💻🫱🏼‍🫲🏻</h3>
 
 ###
 
