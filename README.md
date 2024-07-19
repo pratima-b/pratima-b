@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="hhttps://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
-</div>
-
-###
-
 # Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
 
 ###
