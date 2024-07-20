@@ -1,9 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=ffffff&size=24&lines=Hey+there!+I'm+Pratima+Bombe)
 
 <div align="center">
-  <h1>Hey there! I'm Pratima Bombe <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55px"> </h1>
-  <br>
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=24&lines=Hey+there!+I'm+Pratima+Bombe)
+  <h1>![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=ffffff&size=24&lines=Hey+there!+I'm+Pratima+Bombe)<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55px"> </h1>
+  
 </div>
 
 
