@@ -87,23 +87,7 @@
 
 # GitHub Stats <img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width = 40px>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pratima-b&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratima-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratima-b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=pratima-b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=pratima-b&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratima-b&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratima-b&show_icons=true&theme=radical)
 
 ###
 
