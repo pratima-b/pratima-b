@@ -100,11 +100,6 @@
   </a>
 </p>
 
-<p align="center">
-    <!-- Trophy Stats -->
-    <img src="https://github-profile-trophy.vercel.app/?username=pratima-b&theme=radical" alt="GitHub Trophies" />
-</p>
-
 
 
 
