@@ -141,7 +141,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pratima-b.pratima-b&left_text=Profile%20Views%20%F0%9F%91%80"  />
 </div>
 
