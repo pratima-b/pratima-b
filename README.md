@@ -1,6 +1,31 @@
 <div align="center">
-  <h1>Hey there! I'm Pratima Bombe <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55px"> </h1>
+  <svg viewBox="0 0 500 50">
+    <text x="0" y="35" font-size="24" fill="black" id="typing-text"></text>
+    <rect x="0" y="0" width="500" height="50" fill="white" />
+    <rect id="cursor" x="0" y="0" width="10" height="50" fill="black" />
+  </svg>
 </div>
+
+<script>
+const text = "Hey there! I'm Pratima Bombe ";
+const typingText = document.getElementById("typing-text");
+const cursor = document.getElementById("cursor");
+let index = 0;
+
+function type() {
+  if (index < text.length) {
+    typingText.textContent += text.charAt(index);
+    cursor.setAttribute("x", typingText.getBBox().width);
+    index++;
+    setTimeout(type, 100);
+  } else {
+    cursor.style.display = "none";
+  }
+}
+
+type();
+</script>
+
 
 
 ###
