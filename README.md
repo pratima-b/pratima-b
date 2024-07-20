@@ -11,7 +11,9 @@
 
 ###
 
-<video src="https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4" autoplay loop muted playsinline width="600"></video>
+<div align="center">
+  <img src=""  />
+</div>
 
 
 # Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
