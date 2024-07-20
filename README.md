@@ -11,7 +11,7 @@
 ###
 
 
-<h2 align="center">I'm an enthusiastic developer with expertise in Android Development 📱, UI/UX Design 🎨, and AI/ML 🤖. I love creating intuitive mobile applications, designing engaging user interfaces, and leveraging artificial intelligence to build smart solutions. Always eager to learn and innovate, I thrive on challenges and continuously seek opportunities to grow and collaborate on exciting projects 🚀.</h2>
+<h4 align="center">I'm an enthusiastic developer with expertise in Android Development 📱, UI/UX Design 🎨, and AI/ML 🤖. I love creating intuitive mobile applications, designing engaging user interfaces, and leveraging artificial intelligence to build smart solutions. Always eager to learn and innovate, I thrive on challenges and continuously seek opportunities to grow and collaborate on exciting projects 🚀.</h4>
 
 ###
 
