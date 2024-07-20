@@ -90,7 +90,7 @@
 <p align="center">
   <a href="https://github.com/pratima-b">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratima-b&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratima-b&layout=pietheme=radical"/>
   </a>
 </p>
 
