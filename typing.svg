@@ -1,0 +1,9 @@
+<svg viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="35" font-size="30">
+    <tspan fill="black">Welcome to my GitHub</tspan>
+    <tspan fill="white">
+      <animate attributeName="fill" values="black;black;white" dur="3s" repeatCount="indefinite"/>
+      |
+    </tspan>
+  </text>
+</svg>
