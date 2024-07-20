@@ -4,15 +4,16 @@
 </div>
 
 
-
-
-
 ###
 
 
 <h4 align="center">I'm an enthusiastic developer with expertise in Android Development 📱, UI/UX Design 🎨, and AI/ML 🤖. I love creating intuitive mobile applications, designing engaging user interfaces, and leveraging artificial intelligence to build smart solutions. Always eager to learn and innovate, I thrive on challenges and continuously seek opportunities to grow and collaborate on exciting projects 🚀.</h4>
 
 ###
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/906441/screenshots/16080750/media/99d65a08f9f60ffd23eaf4e504aa3d20.mp4"  />
+</div>
 
 
 # Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
