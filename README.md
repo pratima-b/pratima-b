@@ -11,6 +11,11 @@
 ###
 
 
+<div align="center">
+  <img src="https://static.tumblr.com/e856c20ed44534f8d799841f2953f406/kbtpy8x/tP5njyqs4/tumblr_static_c8pj0nps0y88cok4swcg0go40.png"  />
+</div>
+
+
 # Technical Skills <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width = 40px>
 
 
