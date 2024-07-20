@@ -97,18 +97,18 @@
 <p align="center">
     <!-- Stats Card -->
     <a href="https://github.com/pratima-b">
-        <img src="https://github-stats-alpha.vercel.app/api/?username=pratima-b&cc=000000&tc=ffffff&ic=4B8BDA" alt="Stats" />
+        <img src="https://github-stats-alpha.vercel.app/api/?username=pratima-b&theme=radical" alt="Stats" />
     </a>
 </p>
 
 <p align="center">
     <!-- Profile Summary Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratima-b&theme=github_dark" alt="Profile Summary Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratima-b&theme=radical" alt="Profile Summary Card" />
 </p>
 
 <p align="center">
     <!-- Trophy Stats -->
-    <img src="https://github-profile-trophy.vercel.app/?username=pratima-b&theme=darkhub" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pratima-b&theme=radical" alt="GitHub Trophies" />
 </p>
 
 
