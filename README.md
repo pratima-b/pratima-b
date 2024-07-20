@@ -104,13 +104,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pratima-b&theme=radical" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-    <!-- Stats Card -->
-    <a href="https://github.com/pratima-b">
-        <img src="https://github-readme-stats.vercel.app/api?username=pratima-b&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
-    </a>
-</p>
-
 
 
 
