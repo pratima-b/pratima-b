@@ -107,7 +107,7 @@
 <p align="center">
     <!-- Stats Card -->
     <a href="https://github.com/pratima-b">
-        <img src="https://github-stats-alpha.vercel.app/api/?username=pratima-b&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pratima-b&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
     </a>
 </p>
 
